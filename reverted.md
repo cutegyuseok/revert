@@ -5,4 +5,4 @@ asdadad
 123123
 ## how to edit latest commit.
 
-hust use `$ git commit --amend
+just use `$ git commiit --amend
